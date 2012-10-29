@@ -1,8 +1,6 @@
 Open Source Snacks
 ===
 
-![Open Source Snacks](https://raw.github.com/thingsinjars/opensourcesnacks/master/images/logo.png "Open Source Snacks")
-
 In my opinion, seed snacks are pretty much the perfect web dev snack: they're tasty, they're low-fat, they're vegan-friendly, they're gluten-free. I've always got a tub of some next to my monitor so, when I'm chewing over a tricky layout, I can grab a handful and chew them, too. 
 
 This repository collects some of my favourite seed recipes and I'm hoping that other web devs can clone the project, roast their own, suggest improvements and submit a pull request. If you have any other easy to make snacks (such as nut snack recipes), feel free to submit them, too.
@@ -48,5 +46,7 @@ The stereotypical image of the geek - bottle of cola on one side, jumbo bag of c
 Also nachos.
 
 ---
+
+![Open Source Snacks](https://raw.github.com/thingsinjars/opensourcesnacks/master/images/small-logo.png "Open Source Snacks")
 
 [Sunflower Seed](http://thenounproject.com/noun/sunflower-seed/#icon-No1710) designed by [Dmitry Sholkov](http://thenounproject.com/m3d) from The Noun Project
