@@ -4,19 +4,19 @@ Slightly Spicy Savoury Seeds
 Seeds
 ---
 
-  * 1/2 cup pumpkin seeds
-  * 1/2 cup sunflower seeds
-  * 1/2 cup sesame seeds
+  * 0.5 cup pumpkin seeds
+  * 0.5 cup sunflower seeds
+  * 0.5 cup sesame seeds
 
 Flavours
 ---
 
-  * 1/2 tsp cayene pepper
-  * 1/2 tsp mild paprika
-  * 1/4 tsp garlic powder
-  * 1/2 tsp brown sugar
-  * 3/4 tsp salt
-  * 3/4 tsp olive oil
+  * 0.5  tsp cayene pepper
+  * 0.5  tsp mild paprika
+  * 0.25 tsp garlic powder
+  * 0.5  tsp brown sugar
+  * 0.75 tsp salt
+  * 0.75 tsp olive oil
 
 Method
 ---

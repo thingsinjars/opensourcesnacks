@@ -4,20 +4,20 @@ Kinda Curry Savoury Seeds
 Seeds
 ---
 
-  * 1/2 cup pumpkin seeds
-  * 1/2 cup sunflower seeds
-  * 1/2 cup sesame seeds
+  * 0.5 cup pumpkin seeds
+  * 0.5 cup sunflower seeds
+  * 0.5 cup sesame seeds
 
 Flavours
 ---
 
-  * 1 tsp ground coriander
-  * 1 tsp cumin
-  * 1/4 tsp garlic powder
-  * 2 tsp ground ginger
-  * 1/4 tsp salt
-  * 1/4 tsp sugar
-  * 3/4 tsp olive oil
+  * 1.0  tsp ground coriander
+  * 1.0  tsp cumin
+  * 0.25 tsp garlic powder
+  * 2.0  tsp ground ginger
+  * 0.25 tsp salt
+  * 0.25 tsp sugar
+  * 0.75 tsp olive oil
 
 Method
 ---

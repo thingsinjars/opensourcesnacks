@@ -4,17 +4,17 @@ Pretty Peppery Savoury Seeds
 Seeds
 ---
 
-  * 1/2 cup pumpkin seeds
-  * 1/2 cup sunflower seeds
-  * 1/2 cup sesame seeds
+  * 0.5 cup pumpkin seeds
+  * 0.5 cup sunflower seeds
+  * 0.5 cup sesame seeds
 
 Flavours
 ---
 
-  * 1 1/2 tsp black pepper
-  * 1 tsp salt
-  * 1/4 tsp garlic powder
-  * 3/4 tsp olive oil
+  * 1.5  tsp black pepper
+  * 1.0  tsp salt
+  * 0.25 tsp garlic powder
+  * 0.75 tsp olive oil
 
 Method
 ---
