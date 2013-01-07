@@ -1,0 +1,415 @@
+/*
+	Frameless			<http://framelessgrid.com/>
+	by Joni Korpi 		<http://jonikorpi.com/>
+	licensed under CC0	<http://creativecommons.org/publicdomain/zero/1.0/>
+*/
+/*
+	Margin, padding, and border resets
+	except for form elements
+*/
+body, div,
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, th, td,
+article, aside, figure, footer, header, hgroup, menu, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+/*
+	Consistency fixes
+	adopted from http://necolas.github.com/normalize.css/
+*/
+article, aside, details, figcaption, figure,
+footer, header, hgroup, nav, section, audio, canvas, video {
+  display: block; }
+
+html {
+  height: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+body {
+  min-height: 100%;
+  font-size: 100%; }
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; }
+
+b, strong {
+  font-weight: bold; }
+
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+a img, img {
+  -ms-interpolation-mode: bicubic;
+  border: 0; }
+
+input, textarea, button, select {
+  margin: 0;
+  font-size: 100%;
+  line-height: normal;
+  vertical-align: baseline; }
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button; }
+
+input[type="checkbox"],
+input[type="radio"] {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box; }
+
+textarea {
+  overflow: auto; }
+
+/*
+	These are easy to forget
+*/
+::selection {
+  background: orangered;
+  color: white; }
+
+::-moz-selection {
+  background: orangered;
+  color: white; }
+
+img::selection {
+  background: transparent; }
+
+img::-moz-selection {
+  background: transparent; }
+
+body {
+  -webkit-tap-highlight-color: rgba(255, 0, 0, 0.62); }
+
+/*
+	Style overrides for IE6-8
+	http://jonikorpi.com/leaving-old-IE-behind/
+*/
+/*
+	An easy way to zoom your entire layout in or out (as long as it's set in ems).
+	Just change the media queries to activate them.
+	Assuming your base font-size is 16:
+	- the first one zooms out by a factor of (16-2)/16 = 0.875
+	- the second one zooms in by a factor of (16+2)/16 = 1.125  
+*/
+@media screen and (max-width: 1px) {
+  body {
+    font-size: 0.875em; } }
+@media screen and (max-width: 1px) {
+  body {
+    font-size: 1.125em; } }
+/* */
+/* Layout */
+header {
+  width: 52.5em;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em; }
+
+.hero {
+  width: 52.5em;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden; }
+
+.hero li {
+  width: 16.5em;
+  box-sizing: border-box;
+  height: 16.5em;
+  margin: 0 0 0 24px;
+  float: left;
+  list-style-type: none;
+  border: 0.5em solid white;
+  box-sizing: border-box;
+  overflow: hidden; }
+
+.hero li:first-child {
+  margin-left: 0; }
+
+.content, footer {
+  overflow: hidden;
+  position: relative;
+  width: 52.5em;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto; }
+
+.copy {
+  width: 34.5em;
+  box-sizing: border-box;
+  margin: 0 0 0 24px;
+  float: left;
+  margin-left: 0; }
+
+.pullout {
+  border: 0.5em solid white;
+  background: #b8d3eb;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.75); }
+
+nav ul {
+  width: 16.5em;
+  box-sizing: border-box;
+  margin: 0 0 0 24px;
+  float: left; }
+
+.benefits {
+  float: left;
+  margin: 2em auto; }
+
+/* Colours */
+html {
+  background: #72aadb; }
+
+h1, h2, h3, h4 {
+  font-family: "Montserrat Alternates", sans-serif;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+  color: white;
+  color: white;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75); }
+
+/* Type */
+h2 {
+  font-size: 3em;
+  text-align: center;
+  margin: 0 auto 0.5em auto; }
+
+.home h2 {
+  font-size: 3em;
+  text-align: center;
+  margin: 0.5em auto; }
+
+header h1, header p {
+  font-family: "Montserrat Alternates", sans-serif;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+  color: white;
+  text-align: center;
+  text-transform: lowercase;
+  font-size: 4em;
+  font-weight: bold; }
+
+header a {
+  text-decoration: none; }
+
+a {
+  color: inherit; }
+
+.copy a {
+  display: inline-block;
+  text-shadow: none;
+  background: white;
+  text-decoration: none;
+  padding: 0 3px;
+  margin: 0 -3px;
+  color: #333;
+  -webkit-transition: background-color linear 50ms;
+  -moz-transition: background-color linear 50ms;
+  -ms-transition: background-color linear 50ms;
+  -o-transition: background-color linear 50ms;
+  transition: background-color linear 50ms; }
+
+.copy a:hover {
+  -webkit-transition: background-color linear 50ms;
+  -moz-transition: background-color linear 50ms;
+  -ms-transition: background-color linear 50ms;
+  -o-transition: background-color linear 50ms;
+  transition: background-color linear 50ms;
+  background: #b8d3eb;
+  text-decoration: none;
+  padding: 0 3px;
+  margin: 0 -3px; }
+
+.pullout a {
+  display: inline-block;
+  background: white;
+  text-decoration: none;
+  padding: 0 3px;
+  margin: 0 -3px;
+  -webkit-transition: background-color linear 50ms;
+  -moz-transition: background-color linear 50ms;
+  -ms-transition: background-color linear 50ms;
+  -o-transition: background-color linear 50ms;
+  transition: background-color linear 50ms; }
+
+.pullout a:hover {
+  -webkit-transition: background-color linear 50ms;
+  -moz-transition: background-color linear 50ms;
+  -ms-transition: background-color linear 50ms;
+  -o-transition: background-color linear 50ms;
+  transition: background-color linear 50ms;
+  background: #72aadb;
+  text-decoration: none;
+  padding: 0 3px;
+  margin: 0 -3px; }
+
+.hero li {
+  position: relative; }
+
+.hero li span {
+  font-family: "Montserrat Alternates", sans-serif;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+  color: white;
+  font-size: 2.5em;
+  position: absolute;
+  left: 0.25em;
+  bottom: 0; }
+
+.copy h1 {
+  margin-left: 0.5em; }
+
+.copy h2 {
+  font-size: 2em;
+  margin: 0.5em 0 0 0.5em;
+  text-align: left; }
+
+.copy p, .copy ul {
+  font-size: 1.1em;
+  font-family: "Helvetica Neue", sans-serif;
+  color: white;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+  margin: 0 1em 1em 1em; }
+
+.copy ul {
+  padding-left: 1em;
+  line-height: 2em; }
+
+.copy li {
+  margin: 0.5em 0; }
+
+.pullout p {
+  font-weight: bold;
+  color: #333;
+  text-shadow: 0 1px 1px white;
+  margin: 1em; }
+
+.amount {
+  display: inline-block;
+  padding: 0 3px;
+  background-color: #333; }
+
+nav {
+  font-family: "Helvetica Neue", sans-serif;
+  color: white;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75); }
+
+nav li {
+  font-size: 2.1em;
+  list-style: none;
+  text-align: right; }
+
+nav a {
+  display: block;
+  padding-right: 0.5em;
+  border-right: 0.25em solid white;
+  text-decoration: none;
+  background: transparent; }
+
+nav a:hover {
+  background: white;
+  border-right-color: #b8d3eb;
+  color: #72aadb; }
+
+.recipes .nav-recipes a {
+  color: #72aadb;
+  background: white; }
+
+.about .nav-about a {
+  color: #72aadb;
+  background: white; }
+
+.measurements .nav-measurements a {
+  color: #72aadb;
+  background: white; }
+
+.contact .nav-contact a {
+  color: #72aadb;
+  background: white; }
+
+.benefits li {
+  font-family: "Helvetica Neue", sans-serif;
+  list-style: disc;
+  color: white;
+  font-size: 1.5em;
+  float: left;
+  margin-left: 2em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75); }
+
+.benefits li:first-child {
+  list-style: none; }
+
+footer div, footer p {
+  color: white;
+  font-family: "Helvetica Neue", sans-serif;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+  font-weight: 200;
+  margin: 5em 1em 1em 1em; }
+
+footer p {
+  text-align: right;
+  font-size: 1.5em;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 11px; }
+
+footer p a {
+  text-decoration: none; }
+
+footer p a:hover {
+  text-decoration: underline; }
+
+/* Hero */
+.mix {
+  background: url(../img/hero-mix.jpg) 50% 50%; }
+
+.roast {
+  background: url(../img/hero-roast.jpg) 50% 50%; }
+
+.eat {
+  background: url(../img/hero-eat.jpg) 50% 50%; }
+
+/* Logo */
+.logo {
+  background: url(../img/logo.png) no-repeat 0 0;
+  height: 100px;
+  float: left; }
+
+.logo a {
+  text-decoration: none;
+  font-size: 2.2em;
+  display: block;
+  width: 100px;
+  text-align: left;
+  margin: 20px 0 0 68px;
+  text-transform: lowercase;
+  margin-top: -14px;
+  line-height: 40px;
+  letter-spacing: -1px; }

@@ -1,0 +1,22 @@
+extends layout
+
+block header
+  h1
+    a(href=locals.url)= locals.name
+
+block hero
+  ul.hero
+    li.mix
+      span 1. Mix
+    li.roast
+      span 2. Roast
+    li.eat
+      span 3. Eat
+
+block content
+  h2 Develop the perfect geek snack
+  .copy.pullout
+    p
+      a(href='https://github.com/thingsinjars/opensourcesnacks') Clone the repository 
+      |  and make your own seed snacks to munch on while you code.
+    p If you have an improvement: fork, change and submit a pull request.
