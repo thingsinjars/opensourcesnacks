@@ -11,8 +11,8 @@ Seeds
 Flavours
 ---
 
-  * 2 tbps margarine
-  * 2 tbps maple syrup
+  * 2 tbsp margarine
+  * 2 tbsp maple syrup
   * 2 tsp ground cinnamon
   
 Method
