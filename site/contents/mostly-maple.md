@@ -4,7 +4,7 @@ section: recipes
 title: Mostly Maple
 ---
 
-Mostly Maple
+Mostly Maple Sweet Seeds
 ===
 
 Seeds

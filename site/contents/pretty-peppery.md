@@ -4,7 +4,7 @@ section: recipes
 title: Pretty Peppery
 ---
 
-Pretty Peppery
+Pretty Peppery Savoury Seeds
 ===
 
 Seeds

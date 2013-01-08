@@ -1,10 +1,10 @@
 ---
-title: Slightly Spicy
-section: recipes
 template: page.jade
+section: recipes
+title: Slightly Spicy
 ---
 
-Slightly Spicy
+Slightly Spicy Savoury Seeds
 ===
 
 Seeds

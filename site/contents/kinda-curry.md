@@ -4,7 +4,7 @@ section: recipes
 title: Kinda Curry
 ---
 
-Kinda Curry
+Kinda Curry Savoury Seeds
 ===
 
 Seeds

@@ -29,7 +29,7 @@ jQuery.fn.highlight = function(pattern) {
                 var middleClone = middleBit.cloneNode(true);
                 spanNode.appendChild(middleClone);
                 // parentNode ie. node, now has 3 nodes by 2 splitText()s, replace the middle with the highlighted spanNode:
-                middleBit.parentNode.replaceChild(spanNode, middleBit); 
+                middleBit.parentNode.replaceChild(spanNode, middleBit);
                 skip = 1; // skip this middleBit, but still need to check endBit
             }
         } else if (node.nodeType === 1 && node.childNodes && !/(script|style)/i.test(node.tagName)) { // 1 - Element node
