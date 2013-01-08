@@ -48,5 +48,3 @@ Also nachos.
 ---
 
 ![Open Source Snacks](https://raw.github.com/thingsinjars/opensourcesnacks/master/images/small-logo.png "Open Source Snacks")
-
-[Sunflower Seed](http://thenounproject.com/noun/sunflower-seed/#icon-No1710) designed by [Dmitry Sholkov](http://thenounproject.com/m3d) from The Noun Project
