@@ -21,8 +21,8 @@ Flavours
   * 0.5  tsp mild paprika
   * 0.25 tsp garlic powder
   * 0.5  tsp brown sugar
-  * 0.75 tsp salt
-  * 0.75 tsp olive oil
+  * 0.5  tsp salt
+  * 1.0  tsp olive oil
 
 Method
 ---
