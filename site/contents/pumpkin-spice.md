@@ -1,10 +1,10 @@
 ---
 template: page.pug
 section: recipes
-title: Kinda Curry
+title: Pumpkin Spice
 ---
 
-Kinda Curry Savoury Seeds
+Pumpkin Spice Seeds
 ===
 
 Seeds
@@ -17,12 +17,12 @@ Seeds
 Flavours
 ---
 
-  * 1.0  tsp ground coriander
-  * 1.0  tsp cumin
-  * 0.25 tsp garlic powder
-  * 2.0  tsp ground ginger
-  * 0.25 tsp salt
-  * 0.25 tsp sugar
+  * 2.0  tsp ground cinnamon
+  * 0.5  tsp nutmeg
+  * 1.0  tsp ground ginger
+  * 0.25 tsp ground cloves
+  * 1.0  tbsp demerara
+  * 1.0  tbsp butter
   * 0.75 tsp olive oil
 
 Method
@@ -44,4 +44,6 @@ Method
 Variation
 ---
 
-Replace the sesame seeds with 0.5 cup almond flakes for a Kinda Korma variation.
+Also works well with just pumpkin seeds.
+
+Sprinkle over yoghurt for a healthy, autumnal breakfast.

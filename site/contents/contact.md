@@ -1,7 +1,7 @@
 ---
 title: Contact
 section: contact
-template: page.jade
+template: page.pug
 ---
 
 Contact

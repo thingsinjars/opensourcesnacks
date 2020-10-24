@@ -34,3 +34,8 @@ Method
   * Take the seeds out, spread them on a cool tray
   * Once cooled, put them in plastic tubs
   * Eat.
+
+Variation
+---
+
+Replace the sesame seeds with 0.5 cup almond flakes for a Kinda Korma variation.

@@ -12,7 +12,7 @@ Flavours
 ---
 
   * 0.5  tsp cayene pepper
-  * 0.5  tsp mild paprika
+  * 0.5  tsp mild or smoked paprika
   * 0.25 tsp garlic powder
   * 0.5  tsp brown sugar
   * 0.5  tsp salt

@@ -1,7 +1,7 @@
 ---
 title: Measurements
 section: measurements
-template: page.jade
+template: page.pug
 ---
 
 Measurements

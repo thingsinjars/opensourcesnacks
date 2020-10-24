@@ -10,7 +10,7 @@ for file in seeds/*.md ; do
     outfilename=`echo $infilename|tr '[:upper:]' '[:lower:]'`
     outfilename=`echo $outfilename.md|sed 's/ /-/g'`
     echo "---
-template: page.jade
+template: page.pug
 section: recipes
 title: $infilename
 ---

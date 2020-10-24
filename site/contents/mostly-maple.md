@@ -1,5 +1,5 @@
 ---
-template: page.jade
+template: page.pug
 section: recipes
 title: Mostly Maple
 ---

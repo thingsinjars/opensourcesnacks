@@ -1,7 +1,7 @@
 ---
 title: About
 section: about
-template: page.jade
+template: page.pug
 ---
 
 About

@@ -1,10 +1,10 @@
 ---
 template: page.pug
 section: recipes
-title: Kinda Curry
+title: Totally Taco
 ---
 
-Kinda Curry Savoury Seeds
+Totally Taco Savoury Seeds
 ===
 
 Seeds
@@ -17,13 +17,15 @@ Seeds
 Flavours
 ---
 
-  * 1.0  tsp ground coriander
-  * 1.0  tsp cumin
-  * 0.25 tsp garlic powder
-  * 2.0  tsp ground ginger
-  * 0.25 tsp salt
-  * 0.25 tsp sugar
-  * 0.75 tsp olive oil
+  * 1.0  tsp chili powder
+  * 0.5  tsp garlic powder
+  * 0.5  tsp onion powder
+  * 0.5  tsp dried oregano
+  * 1.0  tsp mild or smoked paprika
+  * 1.0  tsp ground cumin
+  * 0.5  tsp salt
+  * 0.5  tsp black pepper
+  * 1.0  tsp olive oil
 
 Method
 ---
@@ -40,8 +42,3 @@ Method
   * Take the seeds out, spread them on a cool tray
   * Once cooled, put them in plastic tubs
   * Eat.
-
-Variation
----
-
-Replace the sesame seeds with 0.5 cup almond flakes for a Kinda Korma variation.

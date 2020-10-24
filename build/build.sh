@@ -10,4 +10,4 @@ cd $BUILD_DIR/../site
 
 echo "Generating site"
 
-wintersmith build
+npx wintersmith build

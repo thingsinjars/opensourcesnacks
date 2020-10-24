@@ -1,5 +1,5 @@
 {
-  "template": "index.jade",
+  "template": "index.pug",
   "section": "home",
   "title": "Introduction"
 }
