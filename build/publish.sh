@@ -2,6 +2,8 @@
 
 git checkout gh-pages
 
+rm -rf *
+
 git checkout master -- site/build
 
 mv -f site/build/* .
