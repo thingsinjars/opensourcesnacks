@@ -21,8 +21,8 @@ Flavours
   * 0.5  tsp nutmeg
   * 1.0  tsp ground ginger
   * 0.25 tsp ground cloves
-  * 1.0  tbsp demerara
-  * 1.0  tbsp butter
+  * 1.0  tbsp demerara sugar
+  * 1.0  tbsp butter (or vegan alternative)
   * 0.75 tsp olive oil
 
 Method

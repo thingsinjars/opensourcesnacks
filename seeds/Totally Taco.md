@@ -11,14 +11,14 @@ Seeds
 Flavours
 ---
 
-  * 1.0  tsp chili powder
-  * 0.5  tsp garlic powder
-  * 0.5  tsp onion powder
-  * 0.5  tsp dried oregano
-  * 1.0  tsp mild or smoked paprika
-  * 1.0  tsp ground cumin
-  * 0.5  tsp salt
-  * 0.5  tsp black pepper
+  * 0.5 tsp chili powder
+  * 0.25 tsp garlic powder
+  * 0.25 tsp onion powder
+  * 0.25 tsp dried oregano
+  * 0.5  tsp mild or smoked paprika
+  * 0.25 tsp ground cumin
+  * 0.25 tsp salt
+  * 0.25 tsp black pepper
   * 1.0  tsp olive oil
 
 Method

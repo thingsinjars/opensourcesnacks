@@ -11,10 +11,10 @@ Seeds
 Flavours
 ---
 
-  * 2 tbsp margarine
+  * 2 tbsp butter (or vegan alternative)
   * 2 tbsp maple syrup
   * 2 tsp ground cinnamon
-  
+
 Method
 ---
 
