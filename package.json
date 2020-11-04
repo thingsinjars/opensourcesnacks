@@ -1,0 +1,29 @@
+{
+  "name": "opensourcesnacks",
+  "version": "1.0.0",
+  "description": "A collection of seed snack recipes",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build/build.sh",
+    "publish": "./build/publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thingsinjars@github.com/thingsinjars/opensourcesnacks.git"
+  },
+  "keywords": [
+    "food",
+    "recipes",
+    "snacks",
+    "seeds"
+  ],
+  "author": "Simon Madine",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/thingsinjars/opensourcesnacks/issues"
+  },
+  "homepage": "https://github.com/thingsinjars/opensourcesnacks#readme",
+  "dependencies": {
+    "wintersmith": "^2.5.0"
+  }
+}

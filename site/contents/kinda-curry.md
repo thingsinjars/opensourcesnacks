@@ -7,8 +7,6 @@ title: Kinda Curry
 Kinda Curry Savoury Seeds
 ===
 
-There's no real spice kick to this mix. Maybe a little. Not much. Kinda. You can also replace the sesame seeds with 0.5 cup almond flakes for a Kinda Korma variation.
-
 Seeds
 ---
 
@@ -25,7 +23,7 @@ Flavours
   * 2.0  tsp ground ginger
   * 0.25 tsp salt
   * 0.25 tsp sugar
-  * 1.0  tsp olive oil
+  * 0.75 tsp olive oil
 
 Method
 ---
@@ -42,3 +40,8 @@ Method
   * Take the seeds out, spread them on a cool tray
   * Once cooled, put them in plastic tubs
   * Eat.
+
+Variation
+---
+
+Replace the sesame seeds with 0.5 cup almond flakes for a Kinda Korma variation.
