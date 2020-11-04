@@ -1,6 +1,8 @@
 Pretty Peppery Savoury Seeds
 ===
 
+Why over-complicate things when just a few seeds and a lot of pepper works fine? Note: This mix really is just for people who like a lot of pepper.
+
 Seeds
 ---
 

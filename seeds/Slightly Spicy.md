@@ -1,6 +1,8 @@
 Slightly Spicy Savoury Seeds
 ===
 
+These have a little kick but nothing that would stop you munching down several handfuls. Switch from smoked paprika to standard if you'd like a bit more of a kick.
+
 Seeds
 ---
 

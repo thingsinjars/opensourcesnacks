@@ -1,6 +1,12 @@
 Pumpkin Spice Seeds
 ===
 
+Not quite a red-cup latte but still perfect to nibble on while out guising on the cold, Autumn night. Or trick-or-treating, depending on where in the world you are.
+
+This mix also works well with just pumpkin seeds.
+
+Sprinkle over yoghurt or porridge for a healthy, autumnal breakfast.
+
 Seeds
 ---
 
@@ -34,10 +40,3 @@ Method
   * Take the seeds out, spread them on a cool tray
   * Once cooled, put them in plastic tubs
   * Eat.
-
-Variation
----
-
-Also works well with just pumpkin seeds.
-
-Sprinkle over yoghurt for a healthy, autumnal breakfast.

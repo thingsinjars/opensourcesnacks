@@ -1,6 +1,8 @@
 Mostly Maple Sweet Seeds
 ===
 
+These are perfect sprinkled over porridge.
+
 Seeds
 ---
 

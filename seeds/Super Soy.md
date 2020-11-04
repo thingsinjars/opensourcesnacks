@@ -1,13 +1,7 @@
----
-template: page.pug
-section: recipes
-title: Slightly Spicy
----
-
-Slightly Spicy Savoury Seeds
+Super Soy Savoury Seeds
 ===
 
-These have a little kick but nothing that would stop you munching down several handfuls. Switch from smoked paprika to standard if you'd like a bit more of a kick.
+Warning: these are *super* flavoursome. Definitely don't put in any more than 2 tbsp soy sauce.
 
 Seeds
 ---
@@ -19,18 +13,15 @@ Seeds
 Flavours
 ---
 
-  * 0.5  tsp cayene pepper
-  * 0.5  tsp mild or smoked paprika
-  * 0.25 tsp garlic powder
-  * 0.5  tsp brown sugar
-  * 0.5  tsp salt
-  * 1.0  tsp olive oil
+  * 2.0  tbsp soy sauce (use tamari to keep it gluten-free)
+  * 1.0  tbsp sesame oil
 
 Method
 ---
 
   * Pre-heat the oven to 150°c (302°f)
   * Mix everything together in a tray with sides
+  * *Leave the seeds to absorb the flavour for 20–30 minutes*
   * Roast for 10 minutes
   * Shake the tray
   * Roast for 10 minutes
